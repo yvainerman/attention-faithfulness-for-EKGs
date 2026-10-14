@@ -1,0 +1,13 @@
+data/
+checkpoints/
+logs/
+*.db
+__pycache__/
+SPHdb/
+/ptbxl/
+old/
+attention_tests/
+slurm files/
+test_results/
+tune_results/
+*.bak
